@@ -1,0 +1,1239 @@
+############################################################
+#                                                          #
+#                    SIMULATION REPORT                     #
+#                                                          #
+############################################################
+
+Version: SimJava 2.0
+
+Simulation date:         2 January 2023
+Simulation start time:   2:32:22 pm IST
+Simulation end time:     2:32:24 pm IST
+
+############################################################
+#            Overall simulation run information            #
+############################################################
+
+Total simulated time:    3613300.0
+Total transient time:    0.0
+Total steady state time: 3613300.0
+Transient condition:     None
+Termination condition:   3600000.0 units of elapsed simulated time
+Output analysis method:  None
+
+############################################################
+#               Simulation run measurements                #
+############################################################
+
+------------------------ DC1-Broker ------------------------
+
+- Service time
+
+Sample mean:          0.22313984238386017
+Sample variance:      0.04615328894127539
+Sample std deviation: 0.21483316536623343
+Maximum:              0.6123054749332368
+Minimum:              0.01741746673360467
+
+- Overloading status : DC1-Broker-0
+
+Sample mean:          0.22313984238386017
+Sample variance:      0.04615328894127539
+Sample std deviation: 0.21483316536623343
+Maximum:              0.6123054749332368
+Minimum:              0.01741746673360467
+
+- Overloading status : DC1-Broker-1
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-2
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-3
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-4
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-5
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-6
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-7
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-8
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-9
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-10
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-11
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-12
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-13
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-14
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-15
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-16
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-17
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-18
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-19
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-20
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-21
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-22
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC1-Broker-23
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+------------------------ DC2-Broker ------------------------
+
+- Service time
+
+Sample mean:          0.25024559123803664
+Sample variance:      0.047824440812032826
+Sample std deviation: 0.2186879987837303
+Maximum:              0.636527931317687
+Minimum:              0.01915927790105343
+
+- Overloading status : DC2-Broker-0
+
+Sample mean:          0.25024559123803664
+Sample variance:      0.047824440812032826
+Sample std deviation: 0.2186879987837303
+Maximum:              0.636527931317687
+Minimum:              0.01915927790105343
+
+- Overloading status : DC2-Broker-1
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-2
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-3
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-4
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-5
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-6
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-7
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-8
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-9
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-10
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-11
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-12
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-13
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-14
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-15
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-16
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-17
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-18
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-19
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-20
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-21
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-22
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Overloading status : DC2-Broker-23
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+--------------------------- UB1 ----------------------------
+
+- UB Response time
+
+Sample mean:          300.09175034430996
+Sample variance:      404.1222363112701
+Sample std deviation: 20.10279175416365
+Maximum:              360.112602124922
+Minimum:              232.63685887667816
+
+- Hourly Response Time-0
+
+Sample mean:          300.09175034430996
+Sample variance:      404.1222363112701
+Sample std deviation: 20.10279175416365
+Maximum:              360.112602124922
+Minimum:              232.63685887667816
+
+- Hourly Response Time-1
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-2
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-3
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-4
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-5
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-6
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-7
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-8
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-9
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-10
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-11
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-12
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-13
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-14
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-15
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-16
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-17
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-18
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-19
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-20
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-21
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-22
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-23
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+--------------------------- UB2 ----------------------------
+
+- UB Response time
+
+Sample mean:          501.60135413512245
+Sample variance:      1299.3056289686097
+Sample std deviation: 36.04588227479818
+Maximum:              625.1349288092752
+Minimum:              387.63987595192157
+
+- Hourly Response Time-0
+
+Sample mean:          501.60135413512245
+Sample variance:      1299.3056289686097
+Sample std deviation: 36.04588227479818
+Maximum:              625.1349288092752
+Minimum:              387.63987595192157
+
+- Hourly Response Time-1
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-2
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-3
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-4
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-5
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-6
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-7
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-8
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-9
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-10
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-11
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-12
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-13
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-14
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-15
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-16
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-17
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-18
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-19
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-20
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-21
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-22
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-23
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+--------------------------- UB3 ----------------------------
+
+- UB Response time
+
+Sample mean:          200.47922281427446
+Sample variance:      180.34171679626772
+Sample std deviation: 13.429136859689372
+Maximum:              240.1190898064524
+Minimum:              158.13631827011704
+
+- Hourly Response Time-0
+
+Sample mean:          200.47922281427446
+Sample variance:      180.34171679626772
+Sample std deviation: 13.429136859689372
+Maximum:              240.1190898064524
+Minimum:              158.13631827011704
+
+- Hourly Response Time-1
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-2
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-3
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-4
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-5
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-6
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-7
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-8
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-9
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-10
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-11
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-12
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-13
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-14
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-15
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-16
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-17
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-18
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-19
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-20
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-21
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-22
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-23
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+--------------------------- UB4 ----------------------------
+
+- UB Response time
+
+Sample mean:          199.92051898168074
+Sample variance:      185.71222052453427
+Sample std deviation: 13.627627105425738
+Maximum:              237.11667140154168
+Minimum:              161.10755650419742
+
+- Hourly Response Time-0
+
+Sample mean:          199.92051898168074
+Sample variance:      185.71222052453427
+Sample std deviation: 13.627627105425738
+Maximum:              237.11667140154168
+Minimum:              161.10755650419742
+
+- Hourly Response Time-1
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-2
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-3
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-4
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-5
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-6
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-7
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-8
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-9
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-10
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-11
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-12
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-13
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-14
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-15
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-16
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-17
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-18
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-19
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-20
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-21
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-22
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
+- Hourly Response Time-23
+
+Sample mean:          0.0
+Sample variance:      0.0
+Sample std deviation: 0.0
+Maximum:              0.0
+Minimum:              0.0
+
